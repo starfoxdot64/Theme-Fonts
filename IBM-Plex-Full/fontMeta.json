@@ -1,0 +1,30 @@
+{
+	"name": "IBM Plex (Full)",
+	"description": "Because mono just wasn't enough.",
+	"authors": [
+		{
+			"name": "SF64",
+			"id": "287746550539485185"
+		}
+	],
+	"fonts":{
+	    	"ABCGintoNord-ExtraBold": "https://github.com/starfoxdot64/Theme-Fonts/raw/main/IBM-Plex-Full/IBMPlexSans-Bold.ttf?raw=1",
+        	"ggsans-Bold": "https://github.com/starfoxdot64/Theme-Fonts/raw/main/IBM-Plex-Full/IBMPlexSans-Bold.ttf?raw=1",
+        	"ggsans-BoldItalic": "https://github.com/starfoxdot64/Theme-Fonts/raw/main/IBM-Plex-Full/IBMPlexSans-BoldItalic.ttf?raw=1",
+        	"ggsans-ExtraBold": "https://github.com/starfoxdot64/Theme-Fonts/raw/main/IBM-Plex-Full/IBMPlexSans-Bold.ttf?raw=1",
+        	"ggsans-ExtraBoldItalic": "https://github.com/starfoxdot64/Theme-Fonts/raw/main/IBM-Plex-Full/IBMPlexSans-BoldItalic.ttf?raw=1",
+        	"ggsans-Medium": "https://github.com/starfoxdot64/Theme-Fonts/raw/main/IBM-Plex-Full/IBMPlexSans-Medium.ttf?raw=1",
+        	"ggsans-MediumItalic": "https://github.com/starfoxdot64/Theme-Fonts/raw/main/IBM-Plex-Full/IBMPlexSans-MediumItalic.ttf?raw=1",
+        	"ggsans-Normal": "https://github.com/starfoxdot64/Theme-Fonts/raw/main/IBM-Plex-Full/IBMPlexSans-Regular.ttf?raw=1",
+        	"ggsans-NormalItalic": "https://github.com/starfoxdot64/Theme-Fonts/raw/main/IBM-Plex-Full/IBMPlexSans-Italic.ttf?raw=1",
+        	"ggsans-Semibold": "https://github.com/starfoxdot64/Theme-Fonts/raw/main/IBM-Plex-Full/IBMPlexSans-SemiBold.ttf?raw=1",
+        	"ggsans-SemiboldItalic": "https://github.com/starfoxdot64/Theme-Fonts/raw/main/IBM-Plex-Full/IBMPlexSans-SemiBoldItalic.ttf?raw=1",
+        	"NotoSans-Bold": "https://github.com/starfoxdot64/Theme-Fonts/raw/main/IBM-Plex-Full/IBMPlexSans-Bold.ttf?raw=1",
+        	"NotoSans-ExtraBold": "https://github.com/starfoxdot64/Theme-Fonts/raw/main/IBM-Plex-Full/IBMPlexSans-Bold.ttf?raw=1",
+        	"NotoSans-Medium": "https://github.com/starfoxdot64/Theme-Fonts/raw/main/IBM-Plex-Full/IBMPlexSans-Medium.ttf?raw=1",
+        	"NotoSans-Normal": "https://github.com/starfoxdot64/Theme-Fonts/raw/main/IBM-Plex-Full/IBMPlexSans-Regular.ttf?raw=1",
+        	"NotoSans-NormalItalic": "https://github.com/starfoxdot64/Theme-Fonts/raw/main/IBM-Plex-Full/IBMPlexSans-Italilc.ttf?raw=1",
+        	"NotoSans-Semibold": "https://github.com/starfoxdot64/Theme-Fonts/raw/main/IBM-Plex-Full/IBMPlexSans-SemiBold.ttf?raw=1",
+        	"SourceCodePro-Semibold": "https://github.com/starfoxdot64/Theme-Fonts/raw/main/IBM-Plex-Full/IBMPlexMono-SemiBold.ttf?raw=1"
+	}
+}
